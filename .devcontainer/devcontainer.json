@@ -1,0 +1,11 @@
+{
+  "build": {
+    "dockerfile": "./Dockerfile"
+  },
+  "extensions": [
+    "james-yu.latex-workshop",
+    "taichi.vscode-textlint",
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens"
+  ]
+}
